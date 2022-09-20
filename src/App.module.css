@@ -5,7 +5,6 @@
 body {
   font-family: 'Arial, Helvetica, sans-serif';
 }
-
 .headerContainer {
   max-width: 900px;
   margin: 40px auto;
@@ -128,15 +127,15 @@ body {
     margin: 0;
   }
 
-  .container .rightSide .rightArrow  {
+  .container .rightSide .rightArrow {
     margin-left: 0;
     margin-top: 0;
-    border-radius: 10px
+    border-radius: 10px;
   }
 }
 
-@media(max-width: 425px) {
-  .container .rightSide .grid{
-    grid-template-columns: 1fr
+@media (max-width: 425px) {
+  .container .rightSide .grid {
+    grid-template-columns: 1fr;
   }
 }
