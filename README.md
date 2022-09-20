@@ -13,3 +13,9 @@ Project developed during the course from B7Web.
 
 ***
 >Clique no [Link do site](https://imc-calculator-sable.vercel.app/)  para visualizar.
+
+### Instalação
+- `npm install`
+
+### Para rodar
+- `npm run dev`
