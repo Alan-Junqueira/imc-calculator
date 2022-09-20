@@ -3,7 +3,7 @@ import { useState } from 'react';
 import { levels, calculateImc, Level } from './helpers/imc';
 
 import powerImage from './assets/powered.png';
-import leftArrowImage from './assets/leftArrow.png';
+import leftArrowImage from './assets/leftarrow.png';
 
 import styles from './App.module.css';
 import GridItem from './components/GridItem';
